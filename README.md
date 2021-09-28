@@ -1,0 +1,2 @@
+# AIKeyboardProject
+OpenCV AI Keyboard
